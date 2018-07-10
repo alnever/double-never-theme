@@ -1,4 +1,4 @@
-Theme Name: Double Never Thene
+Theme Name: Double Never Theme
 Theme URI: https://github.com/alnever/double-never-theme/
 Author: Alex Neverov
 Author URI: http://alneverov.ru
